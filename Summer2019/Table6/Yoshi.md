@@ -1,0 +1,1 @@
+Yoshi picked up mario.
