@@ -1,3 +1,4 @@
 Placeholder
 
-Conflict
+Force a conflict
+Conflict resolved
