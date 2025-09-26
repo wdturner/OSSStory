@@ -1,7 +1,2 @@
 Placeholder
 
-
-New stuff
-
-
-Stuff
